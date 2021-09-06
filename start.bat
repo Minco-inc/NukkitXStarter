@@ -31,7 +31,7 @@ echo ===================================================
 powershell -command "Start-Sleep -s 1"
 echo.
 echo ===================================================
-echo Starting...
+echo Starting NukkitX 1.0...
 echo ===================================================
 powershell -command "Start-Sleep -s 1"
 java -jar nukkit-1.0-SNAPSHOT.jar
