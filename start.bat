@@ -25,7 +25,12 @@ echo ===================================================
 powershell -command "Start-Sleep -s 1"
 echo.
 echo ===================================================
-echo Starting NukkitX 1.0...
+echo Starting...
 echo ===================================================
 powershell -command "Start-Sleep -s 1"
-java -jar nukkit-1.0-SNAPSHOT.jar
+if exist nukkit.jar (
+     java -jar nukkit.jar
+) else (
+echo Nukkit.jar is Not found!
+echo Downloads are on https://github.com/CloudburstMC/Nukkit/releases
+)
