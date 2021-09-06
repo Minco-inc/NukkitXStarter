@@ -8,7 +8,8 @@
 :: By (*) Hen2527
 
 :: Bash Variables
-::
+RED='\033[0;31m'
+NC='\033[0m'
 
 
 
@@ -20,12 +21,12 @@
 
 
 echo ===================================================
-echo NukkitX Starter for Minecraft Bedrock Edition Software
+echo ${RED}NukkitX Starter for Minecraft Bedrock Edition Software${NC}
 echo ===================================================
 Start-Sleep -s 1
 echo.
 echo ===================================================
-echo Starting NukkitX 1.0...
+echo ${RED}Starting NukkitX 1.0...${NC}
 echo ===================================================
 Start-Sleep -s 1
 if exist nukkit.jar (
