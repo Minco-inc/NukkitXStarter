@@ -9,9 +9,9 @@ Downloads are on Github [[Releases]](https://github.com/xXhen2527Xx/Nukkit-Start
 
 Nukkit Start Files
 --------------
-[[Windows]](https://github.com/xXhen2527Xx/Nukkit-Starter/releases/latest/start.cmd)
-[[Linux]](https://github.com/xXhen2527Xx/Nukkit-Starter/releases/latest/start.sh)
-[[Powershell]](https://github.com/xXhen2527Xx/Nukkit-Starter/releases/latest/start.ps1)
+[[Windows]](https://github.com/xXhen2527Xx/Nukkit-Starter/releases/latest/start.cmd)<br>
+[[Linux]](https://github.com/xXhen2527Xx/Nukkit-Starter/releases/latest/start.sh)<br>
+[[Powershell]](https://github.com/xXhen2527Xx/Nukkit-Starter/releases/latest/start.ps1)<br>
 
 Download Nukkit
 --------------
