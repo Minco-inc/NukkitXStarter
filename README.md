@@ -20,3 +20,9 @@ Downloads are on [[Nukkit Github Page]](https://github.com/CloudburstMC/Nukkit/r
 Requirements
 --------------
 **Java 8** is required to run Nukkit Starter Files! [[Java Downloads]](https://java.com/en/download/)
+
+Installation
+--------------
+Rename your `[nukkit-examplever.-snapshot.jar]` to `[Nukkit.jar]`
+
+Start the file using `start.bat/start.sh/start.ps1` and setup your server!
