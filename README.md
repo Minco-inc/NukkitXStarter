@@ -22,3 +22,5 @@ Installation
 Rename your `[nukkit-examplever.-snapshot.jar]` to `[Nukkit.jar]`
 
 Start the file using `start.bat/start.sh/start.ps1` and setup your server!
+
+For Linux and Bash : Use `bash start.sh`
