@@ -1,4 +1,4 @@
-[![Banner](https://github.com/CloudburstMC/Nukkit/blob/master/.github/images/banner.png)](https://github.com/CloudburstMC/Nukkit)
+[![Banner](https://raw.githubusercontent.com/CloudburstMC/Nukkit/master/.github/images/banner.png)](https://github.com/CloudburstMC/Nukkit)
 Nukkit Starter
 --------------
 A Bedrock Software Starter Code for Nukkit
