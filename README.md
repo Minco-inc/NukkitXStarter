@@ -3,11 +3,7 @@ Nukkit Starter
 --------------
 A Bedrock Software Starter Code for Nukkit
 
-Downloads
---------------
-Downloads are on Github [[Releases]](https://github.com/xXhen2527Xx/Nukkit-Starter/releases/)
-
-Nukkit Start Files
+Downloads 
 --------------
 [[Windows]](https://github.com/xXhen2527Xx/Nukkit.Starter/blob/master/start.bat)<br>
 [[Linux]](https://github.com/xXhen2527Xx/Nukkit.Starter/blob/master/start.sh)<br>
